@@ -13,7 +13,8 @@ use App\Http\Controllers\AdminCourseController;
 |--------------------------------------------------------------------------
 */
 // php artisan key:generate
-Route::get('key-generate', function () {    
+Route::get('key-generate', function () {
+    abort_unless(app()->environment('local'), 403);
     Artisan::call('key:generate');
 });
 Route::get('/', [FrontendController::class,'home']);
