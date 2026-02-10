@@ -334,7 +334,6 @@
 
     <!-- Main Content -->
     <div class="main-content">
-        <!-- Topbar -->
         <div class="topbar">
             <h5>Dashboard Overview</h5>
             <div class="topbar-right">
@@ -347,8 +346,6 @@
                 </a>
             </div>
         </div>
-
-        <!-- Page Content -->
         <div class="content">
             @yield('content')
         </div>
