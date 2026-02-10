@@ -4,7 +4,7 @@
       <a href="index.html" class="logo d-flex align-items-center me-auto">
         <!-- Uncomment the line below if you also wish to use an image logo -->
         <!-- <img src="assets/img/logo.webp" alt=""> -->
-        <h1 class="sitename">Learner</h1>
+        <h1 class="sitename">Medical Prayojanm</h1>
       </a>
 
       <nav id="navmenu" class="navmenu">

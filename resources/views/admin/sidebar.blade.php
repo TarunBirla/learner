@@ -1,7 +1,7 @@
 <div class="sidebar">
 
 <h4 class="text-center py-3 border-bottom">
-  Learner Admin
+  Medical Prayojanm Admin
 </h4>
 
 <a href="/admin/dashboard" class="{{ request()->is('admin/dashboard') ? 'active' : '' }}">

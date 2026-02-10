@@ -1056,7 +1056,7 @@
           <div class="col-lg-6" data-aos="fade-right" data-aos-delay="200">
             <div class="cta-content">
               <h2>Transform Your Future with Expert-Led Online Courses</h2>
-              <p>Join thousands of successful learners who have advanced their careers through our comprehensive online education platform.</p>
+              <p>Join thousands of successful Medical Prayojanm who have advanced their careers through our comprehensive online education platform.</p>
 
               <div class="features-list">
                 <div class="feature-item" data-aos="fade-up" data-aos-delay="300">
