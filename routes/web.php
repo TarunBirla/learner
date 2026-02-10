@@ -12,7 +12,10 @@ use App\Http\Controllers\AdminCourseController;
 | Frontend Routes (Website)
 |--------------------------------------------------------------------------
 */
-
+// php artisan key:generate
+Route::get('key-generate', function () {    
+    Artisan::call('key:generate');
+});
 Route::get('/', [FrontendController::class,'home']);
 
 Route::get('/courses', [FrontendController::class,'courses']);
